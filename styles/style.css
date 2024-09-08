@@ -1,0 +1,33 @@
+body {
+  background-color: #b18d61;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+footer {
+  display: block;
+  text-align: center;
+  unicode-bidi: isolate;
+}
+
+footer a {
+  margin: 0 10px;
+  text-align: center;
+  color: blanchedalmond;
+}
+
+img {
+  display: block;
+  max-width: 150%;
+  margin: 30px auto;
+}
+
+.email {
+  color: #321817;
+}
